@@ -682,7 +682,7 @@ GameObject:
   - component: {fileID: 1386666780}
   - component: {fileID: 1386666779}
   m_Layer: 0
-  m_Name: Copper
+  m_Name: Iron
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -729,7 +729,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6398492527668056779, guid: 96cad6295d11ea84cac32423b3934b4e, type: 3}
+  m_Sprite: {fileID: 5103231540499187363, guid: 186ddd020bda6764c834c5aa623ca17a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

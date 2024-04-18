@@ -348,7 +348,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -7591591180627222385, guid: ed705726502a53945b8dc23e12279876, type: 3}
+  m_Sprite: {fileID: -6026876224867492281, guid: a524735fd5f319847ae5b991904f43b9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -682,7 +682,7 @@ GameObject:
   - component: {fileID: 1386666780}
   - component: {fileID: 1386666779}
   m_Layer: 0
-  m_Name: Copper
+  m_Name: Sapphire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -729,7 +729,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6398492527668056779, guid: 96cad6295d11ea84cac32423b3934b4e, type: 3}
+  m_Sprite: {fileID: 6528285954514067804, guid: 9b1603a6a57d3f84588860d716c19c7f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -750,7 +750,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalScale: {x: 2.5, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
