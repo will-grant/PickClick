@@ -5,11 +5,17 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/CopperScene.unity
     guid: 8602b53a22669634f859c115086b0a53
+  - enabled: 1
+    path: Assets/Scenes/realShop.unity
+    guid: 422cd0ab2b6da254c8ef9389317a2cc3
+  - enabled: 1
+    path: Assets/Scenes/rules.unity
+    guid: 4b308d6a0ce72294c9b5686a139f2dcc
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

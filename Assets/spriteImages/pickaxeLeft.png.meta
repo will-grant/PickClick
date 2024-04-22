@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 20ddc7298cfd8f64f91adf4f2f4a6aea
+guid: 8439c9a3e9b821d4591b00f57d4a71f2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6586461156150141773
-    second: diamond_0
+      213: 6714643187766892741
+    second: pickaxeLeft_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: diamond_0
+      name: pickaxeLeft_0
       rect:
         serializedVersion: 2
-        x: 26
-        y: 35
-        width: 258
-        height: 235
+        x: 22
+        y: 22
+        width: 316
+        height: 316
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d43ec33668fc76b50800000000000000
-      internalID: 6586461156150141773
+      spriteID: 5c8975057643f2d50800000000000000
+      internalID: 6714643187766892741
       vertices: []
       indices: 
       edges: []
@@ -129,7 +129,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      diamond_0: 6586461156150141773
+      pickaxeLeft_0: 6714643187766892741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
