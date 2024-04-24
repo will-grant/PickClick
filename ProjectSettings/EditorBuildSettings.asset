@@ -5,11 +5,29 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/CopperScene.unity
     guid: 8602b53a22669634f859c115086b0a53
+  - enabled: 1
+    path: Assets/Scenes/IronScene.unity
+    guid: 2341e0678aa8c9c4ab2090f5bc3bcecd
+  - enabled: 1
+    path: Assets/Scenes/GoldScene.unity
+    guid: 900a73bebfb926b4681c7208ce400e47
+  - enabled: 1
+    path: Assets/Scenes/SaphireScene.unity
+    guid: 44ce6edfc53fbac4a9683eac2c2fd098
+  - enabled: 1
+    path: Assets/Scenes/RubyScene.unity
+    guid: ae5c6c9dad47dd14bbe68837ca52530a
+  - enabled: 1
+    path: Assets/Scenes/EmeraldScene.unity
+    guid: a5963d56a559b1441901a8f65c94cadc
+  - enabled: 1
+    path: Assets/Scenes/DiamondScene.unity
+    guid: 4a1b285c981a9194dbf533ce3d8c3002
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
